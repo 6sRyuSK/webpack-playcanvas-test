@@ -12,3 +12,7 @@ module.exports = {
   remotePath: 'htmlUI'
 } 
 ```
+
+` yarn `
+
+` yarn build `
